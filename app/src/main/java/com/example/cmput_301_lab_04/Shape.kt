@@ -9,3 +9,7 @@ class madronaCircle: Shape() {
     override val x = 200
     override val y = 200
 }
+
+abstract class Pentagon: Shape() {
+    override val x = 2020
+}
