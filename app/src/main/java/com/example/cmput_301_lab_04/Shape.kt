@@ -4,5 +4,5 @@ abstract class Shape {
     abstract val x: Int
     abstract val y: Int
 
-    private val color: String = "purple"
+    private val color: String = "chartruce"
 }
